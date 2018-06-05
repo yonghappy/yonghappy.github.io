@@ -5,7 +5,7 @@ date:   2016-10-11 18:24:49
 categories: 技术
 ---
 
-> Learnd from [Codecademy](https://www.codecademy.com/)
+
 
 ## Several functions
 
