@@ -2,7 +2,7 @@
 layout: post
 title: My PHP Notes
 date:   2016-10-11 18:24:49
-categories: front-end notes
+categories: 技术
 ---
 
 > Learnd from [Codecademy](https://www.codecademy.com/)
