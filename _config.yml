@@ -5,7 +5,7 @@ welcome_message: ObjC 中国与 objc.io 合作最新作品<a href="https://objcc
 description: 嗨，我是王巍 (@onevcat)，一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE。正在修行，探求创意之源。
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://onevcat.com"
+url: "http://blog.yonghappy.com"
 
 permalink: /:year/:month/:title/
 
@@ -43,5 +43,5 @@ social:
 
 # Google Analytics
 ga:
-    id: UA-25719337-1
-    host: onevcat.com
+    id: 
+    host: 
