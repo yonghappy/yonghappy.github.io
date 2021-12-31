@@ -5,7 +5,7 @@ welcome_message:开开心心每一天
 description: 小说和人生都是大梦一场。
 creator: <a href="http://blog.yonghappy.com">@yonghappy</a>
 
-url: "http://blog.yonghappy.com"
+url: "https://blog.yonghappy.com"
 
 permalink: /:year/:month/:title/
 
@@ -20,7 +20,7 @@ blog_button:
     description: 访问博客
 
 nav:
-    - {title: 简历, description: 我的简历, url: 'http://blog.yonghappy.com'}
+    - {title: 简历, description: 我的简历, url: 'https://blog.yonghappy.com'}
     
 
 # Pagination
